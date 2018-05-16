@@ -48,15 +48,18 @@ label{
     font-size: 16px;
     width: 100px;
 }
-.name
-{
+.name{
+
     margin-right:55px; 
 }
-.height{
+.height {
     margin-right:52px; 
 }
 .birth_year{
     margin-right: 10px;
+}
+.species{
+    margin-right:46px; 
 }
 span .input{
     color: white;
