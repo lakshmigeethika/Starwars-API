@@ -1,0 +1,64 @@
+@font-face{
+    font-family: starJout;
+    src: url("../fonts/Starjout.ttf");
+}
+@font-face{
+    font-family: starJedi;
+    src: url("../fonts/Starjedi.ttf");
+}
+@font-face{
+    font-family: starJhol;
+    src: url("../fonts/Starjhol.ttf");
+}
+body{ 
+background:url("../../Lego_Darth_Vader_Background.jpg") fixed  center;
+    margin: 20px;
+    background-size: cover;
+    color: white;
+}
+h2{
+    font-family: starJout;
+    font-size: 55px;
+    color: red;
+    font-weight: 200;
+}
+.form-group{
+    padding : 20px;
+}
+.submit-button{
+    margin: 0 20px;
+    padding: 8px 10px 10px;
+    width: 100px;
+    height: 30px;
+    border-radius: 0;
+    font-size: 12px;
+}
+.align-items-center {
+    text-align: center;
+    right: 0;
+    left: 0; 
+}
+.person-info{
+    border-style :groove;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+label{
+    color: black;
+    font-size: 16px;
+    width: 100px;
+}
+.name
+{
+    margin-right:55px; 
+}
+.height{
+    margin-right:52px; 
+}
+.birth_year{
+    margin-right: 10px;
+}
+span .input{
+    color: white;
+    font-size: 12px;
+}
